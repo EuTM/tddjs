@@ -1,0 +1,22 @@
+{
+  "name": "tddjs",
+  "version": "1.0.0",
+  "description": "Test Driven Development for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EuTM/tddjs.git"
+  },
+  "author": "Niels van Reijmersdal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EuTM/tddjs/issues"
+  },
+  "homepage": "https://github.com/EuTM/tddjs#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
